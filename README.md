@@ -53,7 +53,7 @@ To get started with this project, follow these steps:
 
 ## Data Collection
 
-The project collects historical stock price data from Yahoo Finance for the Euro Stoxx 50 components. Ensure you have an internet connection to fetch the latest data.
+The project collects historical stock price data from Yahoo Finance for the Euro Stoxx 50 components. Ensure you have an internet connection to fetch the latest data set.
 
 ## Dependencies
 
